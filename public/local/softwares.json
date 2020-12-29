@@ -1,0 +1,24 @@
+{
+    "softwares": [
+        {
+            "id": "1",
+            "name": "Wordpress",
+            "softwareType": "customizable-website"
+        },
+        {
+            "id": "2",
+            "name": "Squarespace",
+            "softwareType": "customizable-website"
+        },
+        {
+            "id": "3",
+            "name": "Wix",
+            "softwareType": "customizable-website"
+        },
+        {
+            "id": "4",
+            "name": "ActiveCampaign",
+            "softwareType": "crm"
+        }
+    ]
+}
